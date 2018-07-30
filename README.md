@@ -1,1 +1,1 @@
-Sliding tab with pagerSlidingTabStrip
+Sliding tab with pagerSlidingTabStrip 
